@@ -1,0 +1,9 @@
+Statistiques de la bibliotheque :
+Nombre total de medias : 4
+Duree moyenne des contenus audiovisuels : 467.19 min
+
+Repartition par type :
+  Livres : 1
+  Audios : 1
+  Videos : 1
+  LivreAudios : 1

@@ -1,0 +1,573 @@
+# MULTIMEDIA LIBRARY SAVEFILE
+# Format: Type|Title|Author|Year|Available|Attributes
+
+Livre|The Lord of the Rings: The Fellowship of the Ring|J.R.R. Tolkien|1954|1|423
+Livre|Harry Potter and the Philosopher's Stone|J.K. Rowling|1997|1|309
+Livre|Dune|Frank Herbert|1965|1|412
+Livre|Foundation|Isaac Asimov|1951|0|255
+Livre|1984|George Orwell|1949|1|328
+Livre|The Little Prince|Antoine de Saint-Exupéry|1943|1|96
+Livre|Pride and Prejudice|Jane Austen|1813|1|432
+Livre|War and Peace|Leo Tolstoy|1869|0|1225
+Livre|Les Misérables|Victor Hugo|1862|1|1230
+Livre|The Stranger|Albert Camus|1942|1|159
+
+Audio|The Dark Side of the Moon|Pink Floyd|1973|1|42.57
+Audio|Thriller|Michael Jackson|1982|1|42.19
+Audio|Abbey Road|The Beatles|1969|1|47.23
+Audio|Kind of Blue|Miles Davis|1959|0|45.44
+Audio|Back in Black|AC/DC|1980|1|42.11
+Audio|Nevermind|Nirvana|1991|1|49.07
+Audio|Hotel California|Eagles|1976|1|43.25
+Audio|The Wall|Pink Floyd|1979|0|80.45
+Audio|Rumours|Fleetwood Mac|1977|1|39.46
+Audio|Led Zeppelin IV|Led Zeppelin|1971|1|42.37
+
+Video|Inception|Christopher Nolan|2010|1|148|4K
+Video|The Shawshank Redemption|Frank Darabont|1994|1|142|1080p
+Video|The Godfather|Francis Ford Coppola|1972|0|175|4K
+Video|Pulp Fiction|Quentin Tarantino|1994|1|154|1080p
+Video|The Dark Knight|Christopher Nolan|2008|1|152|4K
+Video|Forrest Gump|Robert Zemeckis|1994|1|142|1080p
+Video|Fight Club|David Fincher|1999|0|139|4K
+Video|The Matrix|Lana and Lilly Wachowski|1999|1|136|1080p
+Video|Goodfellas|Martin Scorsese|1990|1|146|1080p
+Video|Seven|David Fincher|1995|1|127|4K
+
+LivreAudio|The Hobbit|J.R.R. Tolkien|1937|1|310|682.5
+LivreAudio|Alice's Adventures in Wonderland|Lewis Carroll|1865|1|200|245.3
+LivreAudio|Frankenstein|Mary Shelley|1818|0|280|530.2
+LivreAudio|Dracula|Bram Stoker|1897|1|418|724.8
+LivreAudio|Twenty Thousand Leagues Under the Sea|Jules Verne|1870|1|375|890.4
+LivreAudio|The Count of Monte Cristo|Alexandre Dumas|1844|1|1276|2580.5
+LivreAudio|Sherlock Holmes: A Study in Scarlet|Arthur Conan Doyle|1887|0|192|420.7
+LivreAudio|The Three Musketeers|Alexandre Dumas|1844|1|695|1520.3
+LivreAudio|Jane Eyre|Charlotte Brontë|1847|1|500|1120.8
+LivreAudio|Moby-Dick|Herman Melville|1851|1|635|1450.6
+
+Livre|The Name of the Wind|Patrick Rothfuss|2007|1|662
+Livre|The Wind-Up Bird Chronicle|Haruki Murakami|1994|0|607
+Livre|The Golden Compass|Philip Pullman|1995|1|399
+Livre|Assassin's Apprentice|Robin Hobb|1995|1|448
+Livre|American Gods|Neil Gaiman|2001|1|465
+Livre|The Color Out of Space|H.P. Lovecraft|1927|1|432
+Livre|Neuromancer|William Gibson|1984|1|320
+Livre|Fahrenheit 451|Ray Bradbury|1953|0|158
+Livre|The Old Man and the Sea|Ernest Hemingway|1952|1|127
+Livre|The Grapes of Wrath|John Steinbeck|1939|1|464
+
+Audio|A Night at the Opera|Queen|1975|1|43.08
+Audio|Purple Rain|Prince|1984|1|43.52
+Audio|The Joshua Tree|U2|1987|0|50.11
+Audio|Born to Run|Bruce Springsteen|1975|1|39.26
+Audio|Pet Sounds|The Beach Boys|1966|1|36.25
+Audio|What's Going On|Marvin Gaye|1971|1|35.04
+Audio|Blue|Joni Mitchell|1971|1|36.17
+Audio|London Calling|The Clash|1979|1|65.07
+Audio|Graceland|Paul Simon|1986|1|43.08
+Audio|OK Computer|Radiohead|1997|1|53.21
+
+Video|Interstellar|Christopher Nolan|2014|1|169|4K
+Video|Gladiator|Ridley Scott|2000|0|155|1080p
+Video|The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|1|178|4K
+Video|The Lord of the Rings: The Two Towers|Peter Jackson|2002|1|179|4K
+Video|The Lord of the Rings: The Return of the King|Peter Jackson|2003|1|201|4K
+Video|La La Land|Damien Chazelle|2016|1|128|4K
+Video|Parasite|Bong Joon-ho|2019|1|132|4K
+Video|Whiplash|Damien Chazelle|2014|0|107|1080p
+Video|The Social Network|David Fincher|2010|1|120|1080p
+Video|No Country for Old Men|Joel and Ethan Coen|2007|1|122|4K
+
+LivreAudio|The Silmarillion|J.R.R. Tolkien|1977|1|365|820.4
+LivreAudio|The Art of War|Sun Tzu|-500|0|273|420.8
+LivreAudio|Hamlet|William Shakespeare|1603|1|180|380.4
+LivreAudio|Don Quixote|Miguel de Cervantes|1605|1|1072|2100.5
+LivreAudio|The Iliad|Homer|-800|1|560|1200.3
+LivreAudio|The Odyssey|Homer|-800|1|541|1150.7
+LivreAudio|The Divine Comedy|Dante Alighieri|1320|1|798|1650.2
+LivreAudio|The Canterbury Tales|Geoffrey Chaucer|1400|1|857|1850.8
+LivreAudio|Wuthering Heights|Emily Brontë|1847|1|416|920.5
+LivreAudio|Gone with the Wind|Margaret Mitchell|1936|0|1037|2150.3
+
+Livre|The Plague|Albert Camus|1947|1|308
+Livre|One Hundred Years of Solitude|Gabriel García Márquez|1967|1|417
+Livre|Ulysses|James Joyce|1922|0|730
+Livre|In Search of Lost Time|Marcel Proust|1913|1|4215
+Livre|Crime and Punishment|Fyodor Dostoevsky|1866|1|551
+Livre|The Brothers Karamazov|Fyodor Dostoevsky|1880|1|796
+Livre|The Trial|Franz Kafka|1925|1|316
+Livre|The Castle|Franz Kafka|1926|0|347
+Livre|Nausea|Jean-Paul Sartre|1938|1|253
+Livre|Being and Nothingness|Jean-Paul Sartre|1943|1|722
+
+Audio|The Rise and Fall of Ziggy Stardust and the Spiders from Mars|David Bowie|1972|1|38.29
+Audio|Exile on Main St.|The Rolling Stones|1972|1|66.52
+Audio|Blood on the Tracks|Bob Dylan|1975|0|51.38
+Audio|The Velvet Underground & Nico|The Velvet Underground|1967|1|48.51
+Audio|Highway 61 Revisited|Bob Dylan|1965|1|51.26
+Audio|Aftermath|The Rolling Stones|1966|1|53.20
+Audio|Let It Bleed|The Rolling Stones|1969|1|42.21
+Audio|Sticky Fingers|The Rolling Stones|1971|1|46.25
+Audio|Electric Ladyland|Jimi Hendrix|1968|1|75.47
+Audio|Are You Experienced|Jimi Hendrix|1967|1|40.12
+
+Video|Blade Runner|Ridley Scott|1982|1|117|4K
+Video|2001: A Space Odyssey|Stanley Kubrick|1968|0|149|1080p
+Video|Apocalypse Now|Francis Ford Coppola|1979|1|153|4K
+Video|Taxi Driver|Martin Scorsese|1976|1|114|1080p
+Video|Casablanca|Michael Curtiz|1942|1|102|1080p
+Video|Psycho|Alfred Hitchcock|1960|1|109|1080p
+Video|Citizen Kane|Orson Welles|1941|1|119|1080p
+Video|Seven Samurai|Akira Kurosawa|1954|1|207|4K
+Video|Spirited Away|Hayao Miyazaki|2001|1|125|4K
+Video|The Godfather Part II|Francis Ford Coppola|1974|1|202|4K
+
+LivreAudio|The Adventures of Tom Sawyer|Mark Twain|1876|1|274|580.3
+LivreAudio|The Adventures of Huckleberry Finn|Mark Twain|1884|1|366|780.9
+LivreAudio|The Return of the King|J.R.R. Tolkien|1955|1|416|920.5
+LivreAudio|The Fellowship of the Ring|J.R.R. Tolkien|1954|1|423|935.2
+LivreAudio|The Two Towers|J.R.R. Tolkien|1954|1|352|780.4
+LivreAudio|The Great Gatsby|F. Scott Fitzgerald|1925|1|180|380.5
+LivreAudio|To Kill a Mockingbird|Harper Lee|1960|1|281|620.8
+LivreAudio|Catch-22|Joseph Heller|1961|0|453|980.2
+LivreAudio|Slaughterhouse-Five|Kurt Vonnegut|1969|1|275|590.6
+LivreAudio|Brave New World|Aldous Huxley|1932|1|311|680.3
+
+Livre|The Catcher in the Rye|J.D. Salinger|1951|1|214
+Livre|The Great Gatsby|F. Scott Fitzgerald|1925|0|180
+Livre|To Kill a Mockingbird|Harper Lee|1960|1|281
+Livre|Catch-22|Joseph Heller|1961|1|453
+Livre|Slaughterhouse-Five|Kurt Vonnegut|1969|1|275
+Livre|Brave New World|Aldous Huxley|1932|1|311
+Livre|The Road|Cormac McCarthy|2006|1|287
+Livre|The Kite Runner|Khaled Hosseini|2003|1|371
+Livre|Life of Pi|Yann Martel|2001|1|319
+Livre|The Book Thief|Markus Zusak|2005|1|552
+
+Audio|Sgt. Pepper's Lonely Hearts Club Band|The Beatles|1967|1|39.52
+Audio|Wish You Were Here|Pink Floyd|1975|1|44.28
+Audio|Led Zeppelin II|Led Zeppelin|1969|1|41.34
+Audio|Who's Next|The Who|1971|1|43.08
+Audio|Tapestry|Carole King|1971|1|43.12
+Audio|The Doors|The Doors|1967|0|43.25
+Audio|Revolver|The Beatles|1966|1|35.01
+Audio|Aqualung|Jethro Tull|1971|1|43.28
+Audio|Appetite for Destruction|Guns N' Roses|1987|1|53.51
+Audio|Ten|Pearl Jam|1991|1|53.23
+
+Video|The Silence of the Lambs|Jonathan Demme|1991|1|118|1080p
+Video|Schindler's List|Steven Spielberg|1993|1|195|4K
+Video|Star Wars: Episode IV - A New Hope|George Lucas|1977|1|121|4K
+Video|The Empire Strikes Back|Irvin Kershner|1980|1|124|4K
+Video|Return of the Jedi|Richard Marquand|1983|1|131|4K
+Video|The Shining|Stanley Kubrick|1980|1|146|4K
+Video|Jurassic Park|Steven Spielberg|1993|1|127|1080p
+Video|Back to the Future|Robert Zemeckis|1985|1|116|1080p
+Video|Raiders of the Lost Ark|Steven Spielberg|1981|1|115|4K
+Video|E.T. the Extra-Terrestrial|Steven Spielberg|1982|1|115|1080p
+
+LivreAudio|The Picture of Dorian Gray|Oscar Wilde|1890|1|254|520.6
+LivreAudio|The Scarlet Letter|Nathaniel Hawthorne|1850|1|238|510.4
+LivreAudio|Sense and Sensibility|Jane Austen|1811|1|352|750.8
+LivreAudio|Emma|Jane Austen|1815|1|474|1020.5
+LivreAudio|Persuasion|Jane Austen|1817|1|249|540.2
+LivreAudio|Northanger Abbey|Jane Austen|1817|1|251|530.7
+LivreAudio|Mansfield Park|Jane Austen|1814|1|448|960.3
+LivreAudio|Little Women|Louisa May Alcott|1868|1|759|1620.8
+LivreAudio|Anne of Green Gables|Lucy Maud Montgomery|1908|1|320|680.5
+LivreAudio|The Secret Garden|Frances Hodgson Burnett|1911|1|331|710.2
+Livre|The Stand|Stephen King|1978|1|1153
+Livre|It|Stephen King|1986|1|1138
+Livre|The Shining|Stephen King|1977|0|447
+Livre|Carrie|Stephen King|1974|1|199
+Livre|Misery|Stephen King|1987|1|310
+Livre|The Da Vinci Code|Dan Brown|2003|1|489
+Livre|Angels & Demons|Dan Brown|2000|1|616
+Livre|The Girl with the Dragon Tattoo|Stieg Larsson|2005|1|465
+Livre|The Hunger Games|Suzanne Collins|2008|1|374
+Livre|Catching Fire|Suzanne Collins|2009|1|391
+
+Audio|The White Album|The Beatles|1968|1|93.35
+Audio|Let It Be|The Beatles|1970|1|35.09
+Audio|The Bends|Radiohead|1995|1|48.37
+Audio|Kid A|Radiohead|2000|0|49.56
+Audio|In Rainbows|Radiohead|2007|1|42.34
+Audio|Nevermind the Bollocks, Here's the Sex Pistols|Sex Pistols|1977|1|38.29
+Audio|The Chronic|Dr. Dre|1992|1|62.48
+Audio|Illmatic|Nas|1994|1|39.31
+Audio|Ready to Die|The Notorious B.I.G.|1994|1|68.58
+Audio|All Eyez on Me|2Pac|1996|1|132.00
+
+Video|Good Will Hunting|Gus Van Sant|1997|1|126|1080p
+Video|The Truman Show|Peter Weir|1998|1|103|1080p
+Video|The Sixth Sense|M. Night Shyamalan|1999|1|107|1080p
+Video|The Green Mile|Frank Darabont|1999|0|189|4K
+Video|Saving Private Ryan|Steven Spielberg|1998|1|169|4K
+Video|The Pianist|Roman Polanski|2002|1|150|4K
+Video|The Departed|Martin Scorsese|2006|1|151|4K
+Video|There Will Be Blood|Paul Thomas Anderson|2007|1|158|4K
+Video|Birdman|Alejandro G. Iñárritu|2014|1|119|4K
+Video|Moonlight|Barry Jenkins|2016|1|111|4K
+
+LivreAudio|Anna Karenina|Leo Tolstoy|1877|1|864|1920.5
+LivreAudio|The Secret History|Donna Tartt|1992|1|559|1240.8
+LivreAudio|The Goldfinch|Donna Tartt|2013|0|771|1680.3
+LivreAudio|The Shadow of the Wind|Carlos Ruiz Zafón|2001|1|487|1080.6
+LivreAudio|Pillars of the Earth|Ken Follett|1989|1|973|2150.2
+LivreAudio|World Without End|Ken Follett|2007|1|1014|2230.8
+LivreAudio|The Night Circus|Erin Morgenstern|2011|1|387|860.5
+LivreAudio|The Starless Sea|Erin Morgenstern|2019|1|512|1150.7
+LivreAudio|Circe|Madeline Miller|2018|1|393|870.4
+LivreAudio|The Song of Achilles|Madeline Miller|2011|1|378|840.2
+
+Livre|The Martian|Andy Weir|2011|1|369
+Livre|Project Hail Mary|Andy Weir|2021|1|476
+Livre|Ready Player One|Ernest Cline|2011|1|374
+Livre|The Circle|Dave Eggers|2013|0|504
+Livre|The Road|Cormac McCarthy|2006|1|287
+Livre|No Country for Old Men|Cormac McCarthy|2005|1|309
+Livre|Blood Meridian|Cormac McCarthy|1985|1|337
+Livre|Beloved|Toni Morrison|1987|1|324
+Livre|Song of Solomon|Toni Morrison|1977|1|337
+Livre|The Bluest Eye|Toni Morrison|1970|1|206
+
+Audio|Dark Side of the Moon|Pink Floyd|1973|1|42.57
+Audio|Wish You Were Here|Pink Floyd|1975|1|44.28
+Audio|Animals|Pink Floyd|1977|0|41.46
+Audio|The Wall|Pink Floyd|1979|1|80.45
+Audio|The Final Cut|Pink Floyd|1983|1|42.57
+Audio|Brothers in Arms|Dire Straits|1985|1|55.07
+Audio|Bridge Over Troubled Water|Simon & Garfunkel|1970|1|36.58
+Audio|Parsley, Sage, Rosemary and Thyme|Simon & Garfunkel|1966|1|28.54
+Audio|Bookends|Simon & Garfunkel|1968|1|29.08
+Audio|Court and Spark|Joni Mitchell|1974|1|36.44
+
+Video|The Grand Budapest Hotel|Wes Anderson|2014|1|99|4K
+Video|Moonrise Kingdom|Wes Anderson|2012|1|94|1080p
+Video|The Royal Tenenbaums|Wes Anderson|2001|1|110|1080p
+Video|The Life Aquatic with Steve Zissou|Wes Anderson|2004|1|119|1080p
+Video|Rushmore|Wes Anderson|1998|1|93|1080p
+Video|The Big Lebowski|Joel and Ethan Coen|1998|1|117|4K
+Video|Fargo|Joel and Ethan Coen|1996|1|98|1080p
+Video|Barton Fink|Joel and Ethan Coen|1991|0|116|1080p
+Video|Miller's Crossing|Joel and Ethan Coen|1990|1|115|1080p
+Video|True Grit|Joel and Ethan Coen|2010|1|110|4K
+
+LivreAudio|Lolita|Vladimir Nabokov|1955|1|336|750.8
+LivreAudio|Pale Fire|Vladimir Nabokov|1962|1|246|540.6
+LivreAudio|Ada or Ardor|Vladimir Nabokov|1969|1|589|1320.4
+LivreAudio|The Master and Margarita|Mikhail Bulgakov|1967|1|384|860.3
+LivreAudio|Doctor Zhivago|Boris Pasternak|1957|1|592|1350.7
+LivreAudio|One Day in the Life of Ivan Denisovich|Alexander Solzhenitsyn|1962|1|142|310.5
+LivreAudio|The Gulag Archipelago|Alexander Solzhenitsyn|1973|0|1822|4050.8
+LivreAudio|The Unbearable Lightness of Being|Milan Kundera|1984|1|314|690.4
+LivreAudio|The Book of Laughter and Forgetting|Milan Kundera|1979|1|228|510.7
+LivreAudio|The Joke|Milan Kundera|1967|1|278|620.3
+
+Livre|The Hitchhiker's Guide to the Galaxy|Douglas Adams|1979|1|216
+Livre|The Restaurant at the End of the Universe|Douglas Adams|1980|1|250
+Livre|Life, the Universe and Everything|Douglas Adams|1982|1|227
+Livre|So Long, and Thanks for All the Fish|Douglas Adams|1984|1|192
+Livre|Mostly Harmless|Douglas Adams|1992|1|271
+Livre|The Color of Magic|Terry Pratchett|1983|1|285
+Livre|Mort|Terry Pratchett|1987|1|241
+Livre|Good Omens|Terry Pratchett & Neil Gaiman|1990|1|288
+Livre|American Psycho|Bret Easton Ellis|1991|0|399
+Livre|Less Than Zero|Bret Easton Ellis|1985|1|208
+
+Audio|Astral Weeks|Van Morrison|1968|1|47.15
+Audio|Moondance|Van Morrison|1970|1|38.14
+Audio|St. Dominic's Preview|Van Morrison|1972|1|44.28
+Audio|Veedon Fleece|Van Morrison|1974|1|47.29
+Audio|The Band|The Band|1969|1|40.47
+Audio|Music from Big Pink|The Band|1968|1|42.26
+Audio|The Köln Concert|Keith Jarrett|1975|1|66.02
+Audio|Bitches Brew|Miles Davis|1970|0|93.57
+Audio|In a Silent Way|Miles Davis|1969|1|38.24
+Audio|Sketches of Spain|Miles Davis|1960|1|41.38
+
+Video|12 Angry Men|Sidney Lumet|1957|1|96|1080p
+Video|Rear Window|Alfred Hitchcock|1954|1|112|1080p
+Video|Vertigo|Alfred Hitchcock|1958|1|128|4K
+Video|North by Northwest|Alfred Hitchcock|1959|1|136|4K
+Video|Dial M for Murder|Alfred Hitchcock|1954|1|105|1080p
+Video|Strangers on a Train|Alfred Hitchcock|1951|1|101|1080p
+Video|Rope|Alfred Hitchcock|1948|1|80|1080p
+Video|The Birds|Alfred Hitchcock|1963|1|119|1080p
+Video|Marnie|Alfred Hitchcock|1964|0|130|1080p
+Video|Shadow of a Doubt|Alfred Hitchcock|1943|1|108|1080p
+
+LivreAudio|The Time Machine|H.G. Wells|1895|1|118|260.5
+LivreAudio|The War of the Worlds|H.G. Wells|1898|1|192|420.8
+LivreAudio|The Invisible Man|H.G. Wells|1897|1|164|360.2
+LivreAudio|The Island of Doctor Moreau|H.G. Wells|1896|1|152|335.6
+LivreAudio|Journey to the Center of the Earth|Jules Verne|1864|1|240|530.7
+LivreAudio|Around the World in Eighty Days|Jules Verne|1873|1|216|480.3
+LivreAudio|The Mysterious Island|Jules Verne|1874|1|422|940.8
+LivreAudio|From the Earth to the Moon|Jules Verne|1865|1|176|390.4
+LivreAudio|Robinson Crusoe|Daniel Defoe|1719|1|320|720.5
+LivreAudio|Gulliver's Travels|Jonathan Swift|1726|1|306|680.2
+
+Livre|The Secret Garden|Frances Hodgson Burnett|1911|1|331
+Livre|A Little Princess|Frances Hodgson Burnett|1905|1|242
+Livre|The Railway Children|E. Nesbit|1906|1|224
+Livre|Five Children and It|E. Nesbit|1902|1|192
+Livre|The Phoenix and the Carpet|E. Nesbit|1904|1|208
+Livre|The Story of the Amulet|E. Nesbit|1906|1|256
+Livre|The Wind in the Willows|Kenneth Grahame|1908|1|224
+Livre|The Jungle Book|Rudyard Kipling|1894|1|240
+Livre|Just So Stories|Rudyard Kipling|1902|1|210
+Livre|Kim|Rudyard Kipling|1901|1|368
+
+Audio|Hounds of Love|Kate Bush|1985|1|46.56
+Audio|The Dreaming|Kate Bush|1982|1|43.11
+Audio|Never for Ever|Kate Bush|1980|1|39.48
+Audio|Lionheart|Kate Bush|1978|1|39.26
+Audio|The Kick Inside|Kate Bush|1978|1|43.13
+Audio|Rio|Duran Duran|1982|1|42.11
+Audio|The Lexicon of Love|ABC|1982|1|42.28
+Audio|Dare|The Human League|1981|1|40.29
+Audio|Architecture & Morality|Orchestral Manoeuvres in the Dark|1981|1|40.38
+Audio|Computer World|Kraftwerk|1981|1|34.25
+
+Video|The 400 Blows|François Truffaut|1959|1|99|1080p
+Video|Breathless|Jean-Luc Godard|1960|1|90|1080p
+Video|Jules and Jim|François Truffaut|1962|1|105|1080p
+Video|Contempt|Jean-Luc Godard|1963|1|103|1080p
+Video|Pierrot le Fou|Jean-Luc Godard|1965|1|110|1080p
+Video|The Seventh Seal|Ingmar Bergman|1957|1|96|1080p
+Video|Wild Strawberries|Ingmar Bergman|1957|1|91|1080p
+Video|Persona|Ingmar Bergman|1966|0|85|1080p
+Video|Fanny and Alexander|Ingmar Bergman|1982|1|188|4K
+Video|Cries and Whispers|Ingmar Bergman|1972|1|91|1080p
+
+LivreAudio|The Once and Future King|T.H. White|1958|1|639|1420.6
+LivreAudio|The Sword in the Stone|T.H. White|1938|1|312|690.4
+LivreAudio|The Once and Future King|T.H. White|1958|1|677|1520.8
+LivreAudio|The Book of Merlyn|T.H. White|1977|1|144|320.5
+LivreAudio|The Princess Bride|William Goldman|1973|1|283|630.7
+LivreAudio|The Thorn Birds|Colleen McCullough|1977|1|692|1550.3
+LivreAudio|The Far Pavilions|M.M. Kaye|1978|1|955|2120.8
+LivreAudio|The Covenant|James A. Michener|1980|0|1248|2780.5
+LivreAudio|Centennial|James A. Michener|1974|1|1086|2420.7
+LivreAudio|Space|James A. Michener|1982|1|896|1980.4
+
+Livre|The Nightingale|Kristin Hannah|2015|1|440
+Livre|The Four Winds|Kristin Hannah|2021|1|464
+Livre|Firefly Lane|Kristin Hannah|2008|0|496
+Livre|The Silent Patient|Alex Michaelides|2019|1|323
+Livre|The Maidens|Alex Michaelides|2021|1|352
+Livre|Where the Crawdads Sing|Delia Owens|2018|1|370
+Livre|Educated|Tara Westover|2018|1|334
+Livre|Becoming|Michelle Obama|2018|1|426
+Livre|The Tattooist of Auschwitz|Heather Morris|2018|1|262
+Livre|Cilka's Journey|Heather Morris|2019|1|352
+
+Audio|After Hours|The Weeknd|2020|1|56.19
+Audio|Blonde|Frank Ocean|2016|1|60.07
+Audio|Channel Orange|Frank Ocean|2012|1|62.18
+Audio|Lemonade|Beyoncé|2016|1|45.49
+Audio|Renaissance|Beyoncé|2022|1|62.11
+Audio|folklore|Taylor Swift|2020|1|63.29
+Audio|evermore|Taylor Swift|2020|1|60.38
+Audio|Midnights|Taylor Swift|2022|0|44.02
+Audio|1989|Taylor Swift|2014|1|48.41
+Audio|Reputation|Taylor Swift|2017|1|55.38
+
+Video|Everything Everywhere All at Once|Daniel Kwan & Daniel Scheinert|2022|1|139|4K
+Video|Dune|Denis Villeneuve|2021|1|155|4K
+Video|Dune: Part Two|Denis Villeneuve|2024|1|166|4K
+Video|The Batman|Matt Reeves|2022|1|176|4K
+Video|Top Gun: Maverick|Joseph Kosinski|2022|1|130|4K
+Video|Black Panther|Ryan Coogler|2018|1|134|4K
+Video|Black Panther: Wakanda Forever|Ryan Coogler|2022|1|161|4K
+Video|Parasite|Bong Joon-ho|2019|1|132|4K
+Video|The Shape of Water|Guillermo del Toro|2017|1|123|4K
+Video|Pan's Labyrinth|Guillermo del Toro|2006|1|118|4K
+
+LivreAudio|Klara and the Sun|Kazuo Ishiguro|2021|1|303|670.5
+LivreAudio|Never Let Me Go|Kazuo Ishiguro|2005|1|288|640.8
+LivreAudio|The Remains of the Day|Kazuo Ishiguro|1989|1|245|550.3
+LivreAudio|The Buried Giant|Kazuo Ishiguro|2015|0|317|710.6
+LivreAudio|Normal People|Sally Rooney|2018|1|273|610.4
+LivreAudio|Conversations with Friends|Sally Rooney|2017|1|304|680.2
+LivreAudio|Beautiful World, Where Are You|Sally Rooney|2021|1|356|790.5
+LivreAudio|My Year of Rest and Relaxation|Ottessa Moshfegh|2018|1|289|650.7
+LivreAudio|Eileen|Ottessa Moshfegh|2015|1|260|580.3
+LivreAudio|Lapvona|Ottessa Moshfegh|2022|1|304|680.4
+
+Livre|Pachinko|Min Jin Lee|2017|1|490
+Livre|Free Food for Millionaires|Min Jin Lee|2007|1|560
+Livre|The Vegetarian|Han Kang|2007|1|183
+Livre|The White Book|Han Kang|2016|1|161
+Livre|Convenience Store Woman|Sayaka Murata|2016|1|163
+Livre|Earthlings|Sayaka Murata|2018|1|247
+Livre|Breasts and Eggs|Mieko Kawakami|2008|1|448
+Livre|Heaven|Mieko Kawakami|2009|1|210
+Livre|Strange Weather in Tokyo|Hiromi Kawakami|2001|1|176
+Livre|The Memory Police|Yōko Ogawa|1994|1|274
+
+Audio|To Pimp a Butterfly|Kendrick Lamar|2015|1|78.51
+Audio|good kid, m.A.A.d city|Kendrick Lamar|2012|1|68.22
+Audio|DAMN.|Kendrick Lamar|2017|1|54.54
+Audio|Mr. Morale & the Big Steppers|Kendrick Lamar|2022|1|73.05
+Audio|The College Dropout|Kanye West|2004|1|76.13
+Audio|Late Registration|Kanye West|2005|1|70.25
+Audio|Graduation|Kanye West|2007|1|51.49
+Audio|My Beautiful Dark Twisted Fantasy|Kanye West|2010|0|68.36
+Audio|Yeezus|Kanye West|2013|1|40.01
+Audio|The Life of Pablo|Kanye West|2016|1|66.37
+
+Video|Mad Max: Fury Road|George Miller|2015|1|120|4K
+Video|Arrival|Denis Villeneuve|2016|1|116|4K
+Video|Blade Runner 2049|Denis Villeneuve|2017|1|164|4K
+Video|Sicario|Denis Villeneuve|2015|1|121|4K
+Video|Prisoners|Denis Villeneuve|2013|1|153|4K
+Video|Incendies|Denis Villeneuve|2010|1|131|1080p
+Video|The Revenant|Alejandro G. Iñárritu|2015|1|156|4K
+Video|Birdman|Alejandro G. Iñárritu|2014|1|119|4K
+Video|Babel|Alejandro G. Iñárritu|2006|1|143|1080p
+Video|21 Grams|Alejandro G. Iñárritu|2003|1|124|1080p
+
+LivreAudio|A Little Life|Hanya Yanagihara|2015|1|720|1580.6
+LivreAudio|The People in the Trees|Hanya Yanagihara|2013|1|368|820.4
+LivreAudio|To Paradise|Hanya Yanagihara|2022|1|720|1600.8
+LivreAudio|The Overstory|Richard Powers|2018|1|502|1120.5
+LivreAudio|The Echo Maker|Richard Powers|2006|1|451|1000.3
+LivreAudio|The Gold Bug Variations|Richard Powers|1991|0|639|1420.7
+LivreAudio|Operation Shylock|Philip Roth|1993|1|398|880.6
+LivreAudio|American Pastoral|Philip Roth|1997|1|423|940.8
+LivreAudio|The Human Stain|Philip Roth|2000|1|361|800.4
+LivreAudio|Portnoy's Complaint|Philip Roth|1969|1|274|610.3
+
+Livre|The Sympathizer|Viet Thanh Nguyen|2015|1|371
+Livre|The Committed|Viet Thanh Nguyen|2021|1|345
+Livre|The Refugees|Viet Thanh Nguyen|2017|1|209
+Livre|Interpreter of Maladies|Jhumpa Lahiri|1999|1|198
+Livre|The Namesake|Jhumpa Lahiri|2003|1|291
+Livre|Unaccustomed Earth|Jhumpa Lahiri|2008|1|333
+Livre|The Lowland|Jhumpa Lahiri|2013|1|340
+Livre|Whereabouts|Jhumpa Lahiri|2021|1|157
+Livre|The Inheritance of Loss|Kiran Desai|2006|1|324
+Livre|Hullabaloo in the Guava Orchard|Kiran Desai|1998|1|224
+
+Audio|21|Adele|2011|1|48.12
+Audio|25|Adele|2015|1|48.25
+Audio|30|Adele|2021|1|58.14
+Audio|19|Adele|2008|1|43.41
+Audio|Back to Black|Amy Winehouse|2006|1|34.54
+Audio|Frank|Amy Winehouse|2003|1|58.52
+Audio|Lioness: Hidden Treasures|Amy Winehouse|2011|1|45.08
+Audio|Continuum|John Mayer|2006|1|49.52
+Audio|Battle Studies|John Mayer|2009|1|46.40
+Audio|Born and Raised|John Mayer|2012|1|47.19
+
+Video|The Power of the Dog|Jane Campion|2021|1|126|4K
+Video|The Piano|Jane Campion|1993|1|121|1080p
+Video|Bright Star|Jane Campion|2009|1|119|1080p
+Video|The Portrait of a Lady|Jane Campion|1996|1|144|1080p
+Video|In the Cut|Jane Campion|2003|1|119|1080p
+Video|Nomadland|Chloé Zhao|2020|1|107|4K
+Video|The Rider|Chloé Zhao|2017|1|104|1080p
+Video|Songs My Brothers Taught Me|Chloé Zhao|2015|1|98|1080p
+Video|Promising Young Woman|Emerald Fennell|2020|1|113|4K
+Video|The Lost Daughter|Maggie Gyllenhaal|2021|1|121|4K
+
+LivreAudio|The Sellout|Paul Beatty|2015|1|289|640.8
+LivreAudio|The White Boy Shuffle|Paul Beatty|1996|1|226|500.6
+LivreAudio|Tuff|Paul Beatty|2000|1|272|610.4
+LivreAudio|The Underground Railroad|Colson Whitehead|2016|1|306|680.7
+LivreAudio|The Nickel Boys|Colson Whitehead|2019|1|213|470.5
+LivreAudio|The Intuitionist|Colson Whitehead|1999|0|255|570.3
+LivreAudio|John Henry Days|Colson Whitehead|2001|1|389|870.6
+LivreAudio|Apex Hides the Hurt|Colson Whitehead|2006|1|212|470.8
+LivreAudio|Sag Harbor|Colson Whitehead|2009|1|273|610.4
+LivreAudio|Zone One|Colson Whitehead|2011|1|259|580.7
+
+Livre|The House of the Spirits|Isabel Allende|1982|1|480
+Livre|Eva Luna|Isabel Allende|1987|1|320
+Livre|Daughter of Fortune|Isabel Allende|1999|1|399
+Livre|Portrait in Sepia|Isabel Allende|2000|1|304
+Livre|Zorro|Isabel Allende|2005|1|390
+Livre|Inés of My Soul|Isabel Allende|2006|1|321
+Livre|Island Beneath the Sea|Isabel Allende|2009|1|462
+Livre|Maya's Notebook|Isabel Allende|2011|1|387
+Livre|The Japanese Lover|Isabel Allende|2015|1|321
+Livre|A Long Petal of the Sea|Isabel Allende|2019|1|336
+
+Audio|The Miseducation of Lauryn Hill|Lauryn Hill|1998|1|77.43
+Audio|Unplugged 2.0|Lauryn Hill|2002|1|59.07
+Audio|Baduizm|Erykah Badu|1997|1|56.52
+Audio|Mama's Gun|Erykah Badu|2000|1|70.49
+Audio|New Amerykah Part One|Erykah Badu|2008|1|56.54
+Audio|New Amerykah Part Two|Erykah Badu|2010|1|47.51
+Audio|Voodoo|D'Angelo|2000|1|78.52
+Audio|Brown Sugar|D'Angelo|1995|1|56.19
+Audio|Black Messiah|D'Angelo|2014|0|59.07
+Audio|Maxwell's Urban Hang Suite|Maxwell|1996|1|62.51
+
+Video|Get Out|Jordan Peele|2017|1|104|4K
+Video|Us|Jordan Peele|2019|1|116|4K
+Video|Nope|Jordan Peele|2022|1|130|4K
+Video|Moonlight|Barry Jenkins|2016|1|111|4K
+Video|If Beale Street Could Talk|Barry Jenkins|2018|1|119|4K
+Video|Medicine for Melancholy|Barry Jenkins|2008|1|88|1080p
+Video|The Last Black Man in San Francisco|Joe Talbot|2019|1|120|4K
+Video|Sorry to Bother You|Boots Riley|2018|1|112|4K
+Video|Blindspotting|Carlos López Estrada|2018|1|95|4K
+Video|The Forty-Year-Old Version|Radha Blank|2020|1|123|4K
+
+LivreAudio|Homegoing|Yaa Gyasi|2016|1|305|680.5
+LivreAudio|Transcendent Kingdom|Yaa Gyasi|2020|1|261|580.7
+LivreAudio|The Water Dancer|Ta-Nehisi Coates|2019|1|403|890.6
+LivreAudio|Between the World and Me|Ta-Nehisi Coates|2015|1|152|340.8
+LivreAudio|We Were Eight Years in Power|Ta-Nehisi Coates|2017|1|367|820.4
+LivreAudio|The Beautiful Struggle|Ta-Nehisi Coates|2008|1|240|530.6
+LivreAudio|The Vanishing Half|Brit Bennett|2020|1|343|760.8
+LivreAudio|The Mothers|Brit Bennett|2016|1|278|620.4
+LivreAudio|Deacon King Kong|James McBride|2020|1|370|820.7
+LivreAudio|The Good Lord Bird|James McBride|2013|1|417|930.5
+
+Livre|The Trial of the Chicago 7|Aaron Sorkin|2020|1|129
+Livre|The Social Network|Aaron Sorkin|2010|1|162
+Livre|A Few Good Men|Aaron Sorkin|1989|1|126
+Livre|The West Wing|Aaron Sorkin|1999|1|688
+Livre|The American President|Aaron Sorkin|1995|1|114
+Livre|Malcolm X: A Life of Reinvention|Manning Marable|2011|1|592
+Livre|The Autobiography of Malcolm X|Malcolm X & Alex Haley|1965|1|460
+Livre|Soul on Ice|Eldridge Cleaver|1968|1|210
+Livre|The Fire Next Time|James Baldwin|1963|1|128
+Livre|Go Tell It on the Mountain|James Baldwin|1953|1|224
+
+Audio|Rapture|Anita Baker|1986|1|42.31
+Audio|Giving You the Best That I Got|Anita Baker|1988|1|41.48
+Audio|Compositions|Anita Baker|1990|1|49.17
+Audio|Rhythm of Love|Anita Baker|1994|1|52.44
+Audio|My Everything|Anita Baker|2004|1|49.35
+Audio|Love Deluxe|Sade|1992|1|45.50
+Audio|Diamond Life|Sade|1984|1|44.28
+Audio|Promise|Sade|1985|1|49.34
+Audio|Stronger Than Pride|Sade|1988|1|47.51
+Audio|Lovers Rock|Sade|2000|1|44.26
+
+Video|Spirited Away|Hayao Miyazaki|2001|1|125|4K
+Video|My Neighbor Totoro|Hayao Miyazaki|1988|1|86|4K
+Video|Princess Mononoke|Hayao Miyazaki|1997|1|134|4K
+Video|Howl's Moving Castle|Hayao Miyazaki|2004|1|119|4K
+Video|Kiki's Delivery Service|Hayao Miyazaki|1989|1|103|4K
+Video|Castle in the Sky|Hayao Miyazaki|1986|1|124|4K
+Video|Nausicaä of the Valley of the Wind|Hayao Miyazaki|1984|1|117|4K
+Video|The Wind Rises|Hayao Miyazaki|2013|1|126|4K
+Video|Ponyo|Hayao Miyazaki|2008|1|101|4K
+Video|Porco Rosso|Hayao Miyazaki|1992|1|94|4K
+
+LivreAudio|The Handmaid's Tale|Margaret Atwood|1985|1|311|690.8
+LivreAudio|The Testaments|Margaret Atwood|2019|1|415|920.6
+LivreAudio|Alias Grace|Margaret Atwood|1996|1|470|1040.7
+LivreAudio|The Blind Assassin|Margaret Atwood|2000|0|521|1160.5
+LivreAudio|Oryx and Crake|Margaret Atwood|2003|1|376|830.9
+LivreAudio|The Year of the Flood|Margaret Atwood|2009|1|431|960.4
+LivreAudio|MaddAddam|Margaret Atwood|2013|1|394|880.7
+LivreAudio|Cat's Eye|Margaret Atwood|1988|1|446|990.3
+LivreAudio|The Robber Bride|Margaret Atwood|1993|1|466|1030.8
+LivreAudio|Surfacing|Margaret Atwood|1972|1|192|430.6
